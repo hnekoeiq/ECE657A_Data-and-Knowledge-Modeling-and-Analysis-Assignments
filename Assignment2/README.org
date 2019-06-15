@@ -1,14 +1,19 @@
 * Assignment 2: Classification
 
 This assignmet is designed to study how to apply below classification methods discussed in class on two datasets:
+
 \\
 1- Decision_tree Classifier
+
 \\
 2- Random Forest Classifier
+
 \\
 3- Neural Network Classifier
+
 \\
 4- KNN
+
 \\
 5- SVM with RBF kernel
 
