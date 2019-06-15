@@ -1,1 +1,35 @@
-Assignment 2: Classification
+* Assignment 2: Classification
+
+This assignmet is designed to study how to apply below classification methods discussed in class on two datasets:
+\\
+1- Decision_tree Classifier
+\\
+2- Random Forest Classifier
+\\
+3- Neural Network Classifier
+\\
+4- KNN
+\\
+5- SVM with RBF kernel
+
+\\
+## The best parameters in terms of classification accuracy is also reported including plotting the ROC curves.
+
+
+
+
+Datasets: 
+\\
+1- Dataset A (bank-additional-full.csv)
+Online at : https://archive.ics.uci.edu/ml/datasets/bank+marketing
+\\
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+There are four datasets.
+Use dataset bank-additional.csv for this assignment.
+bank-additional.csv with 10% of the examples (4119), randomly selected from 1), and 20 inputs.
+The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+\\
+2- Dataset B (DataDNA.mat) This data is the splice junctions on DNA sequences.
+The given dataset includes 2200 samples with 57 features, in the matrix 'fea'. It is a binary class problem. The class labels are either +1 or -1, given in the vector 'gnd'. Parameter selection and classification tasks are conducted on this dataset.
+
+
