@@ -1,0 +1,4 @@
+This assignmet is designed to study how to apply below methods discussed in class on two datasets:
+1- Data Cleaning and Preprocessing (for dataset A)
+2- Feature Extraction (for dataset B)
+3- Nonlinear Dimensionality Reduction (for dataset B)
